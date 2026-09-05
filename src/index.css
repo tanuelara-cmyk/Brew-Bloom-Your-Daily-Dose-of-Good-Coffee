@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --color-cream-bg: #FAF7F2;
+  --color-cream-card: #FFFFFF;
+  --color-cream-muted: #F4EFEA;
+  --color-coffee-primary: #28211E;
+  --color-coffee-body: #594D45;
+  --color-terracotta: #A35C3A;
+  --color-terracotta-dark: #8C4A2A;
+  --color-olive: #606E54;
+  --color-border-warm: #E8DFD5;
+}
+
+@layer base {
+  body {
+    font-family: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+    background-color: #FAF7F2;
+    color: #28211E;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: "Playfair Display", Georgia, serif;
+  }
+}
+
+/* Subtle Hero Image Floating Animation */
+@keyframes subtleFloat {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.animate-subtle-float {
+  animation: subtleFloat 5.5s ease-in-out infinite;
+}
+
+/* Reduced motion accessibility */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .animate-subtle-float {
+    animation: none !important;
+  }
+}
+
