@@ -8,16 +8,14 @@ A modern, responsive and conversion-focused café landing page designed to give 
 
 **[View Live Website](https://brew-bloom-your-daily-dose-of-good.vercel.app/)**
 
-> Replace `#` with your deployed GitHub Pages / Vercel link.
-
 ---
 ## 📸 Preview
 
 ### Desktop
-![Desktop Preview](images/desktop.png)
+![Desktop Preview](cafe.png)
 
 ### Mobile
-![Mobile Preview](images/mobile.png)
+![Mobile Preview](cafe img.png)
 ---
 
 ## ✨ Features
@@ -150,26 +148,6 @@ The interface uses:
 The goal is to make the website feel **warm, trustworthy and premium** while keeping the user journey simple.
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/brew-and-bloom.git
-```
-
-### 2. Open the project
-
-```text
-cd brew-and-bloom
-```
-
-### 3. Run the website
-
-Open `index.html` in your browser.
-
-No backend or database is required.
 
 ---
 
