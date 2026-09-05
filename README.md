@@ -4,10 +4,11 @@
 
 A modern, responsive and conversion-focused café landing page designed to give local cafés a strong online presence and make it easy for customers to explore the menu, find the café and get in touch.
 
-## 🌐 Live Demo
+## 🔗 Project Links
 
-**[View Live Website](https://brew-bloom-your-daily-dose-of-good.vercel.app/)**
-**GitHub Repository:** [View Source Code](https://github.com/tanuelara-cmyk/Brew-Bloom-Your-Daily-Dose-of-Good-Coffee)
+- 🌐 **Live Demo:** [Brew & Bloom](https://brew-bloom-your-daily-dose-of-good.vercel.app/)
+- 💻 **GitHub Repository:** [View Source Code](https://github.com/tanuelara-cmyk/Brew-Bloom-Your-Daily-Dose-of-Good-Coffee)
+
 ---
 ## 📸 Preview
 
@@ -39,17 +40,19 @@ A modern, responsive and conversion-focused café landing page designed to give 
 
 ---
 
-## 🎯 Purpose
+## 🎯 Project Purpose
 
-The website was designed with **local café marketing** in mind.
+**Brew & Bloom** is a frontend web development project created to demonstrate my ability to design and build a modern, responsive business website from scratch.
 
-Instead of simply displaying information, the landing page focuses on converting visitors into customers through clear calls-to-action such as:
+The project is based on a real-world café use case, with a focus on:
 
-* **View Menu**
-* **Visit Us**
-* **WhatsApp Us**
-* **Get Directions**
-* **Plan Your Visit**
+* Clean and user-friendly UI/UX
+* Responsive design across devices
+* Interactive animations and micro-interactions
+* Clear calls-to-action and conversion-focused layout
+* Practical business features such as menu, location, reviews and contact options
+
+This project showcases my skills in **HTML, CSS, JavaScript, Bootstrap, responsive web design and frontend development**.
 
 ---
 
