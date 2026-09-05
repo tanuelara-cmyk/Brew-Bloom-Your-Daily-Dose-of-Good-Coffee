@@ -12,10 +12,12 @@ A modern, responsive and conversion-focused café landing page designed to give 
 ## 📸 Preview
 
 ### Desktop
-![Desktop Preview](cafe.png)
+![Desktop Preview](<img width="1887" height="1076" alt="Screenshot 2026-09-05 101322" src="https://github.com/user-attachments/assets/67d7010d-124d-4d4d-a14d-5505a782cb9a" />
+)
 
 ### Mobile
-![Mobile Preview](cafe_img.png)
+![Mobile Preview](<img width="480" height="862" alt="Screenshot 2026-09-05 101359" src="https://github.com/user-attachments/assets/19688756-0cc5-488a-9779-57c46f2d54c8" />
+)
 ---
 
 ## ✨ Features
