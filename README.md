@@ -12,10 +12,10 @@ A modern, responsive and conversion-focused café landing page designed to give 
 ## 📸 Preview
 
 ### Desktop
-![Desktop Preview](cafe.png)
+![Desktop Preview](<img width="1887" height="1076" alt="cafe" src="https://github.com/user-attachments/assets/bb50d1f3-0baf-4c82-b893-2a61ccdf173b" />)
 
 ### Mobile
-![Mobile Preview](cafe img.png)
+![Mobile Preview](<img width="480" height="862" alt="cafe img" src="https://github.com/user-attachments/assets/98c2b9a0-d5ef-42ae-90fc-2737b524a246" />)
 ---
 
 ## ✨ Features
@@ -146,8 +146,6 @@ The interface uses:
 * Strong visual hierarchy
 
 The goal is to make the website feel **warm, trustworthy and premium** while keeping the user journey simple.
-
----
 
 ---
 
